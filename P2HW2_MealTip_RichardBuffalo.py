@@ -32,5 +32,3 @@ amount = chargeTotal + tip
 
 print('Wow you really eat alot. I hope you tip for that.. $',format(chargeTotal + tip, '.2f'))
 
-
-redundant()
